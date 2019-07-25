@@ -1,5 +1,5 @@
 {
-    "name": "prueba/excelreader",
+    "name": "prueba/leerexcel",
     "description": "libreria para leer excel",
     "type": "library",
     "authors": [
